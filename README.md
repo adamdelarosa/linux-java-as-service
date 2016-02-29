@@ -1,1 +1,3 @@
-# linux-java-as-service
+# Linux Java as service
+
+Make Java running with pid
